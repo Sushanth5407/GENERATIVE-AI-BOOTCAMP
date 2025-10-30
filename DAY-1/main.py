@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 
 # --- Configure API key ---
 load_dotenv()
-genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
+genai.configure(api_key=os.getenv("AIzaSyCj2AdEgMOkHuDC4M_bCuz-GMdS7uiqLeg"))
 
 # --- Initialize model with fixed system prompt ---
 system_prompt = "You are a helpful, creative, and knowledgeable AI assistant. You provide accurate, engaging, and well-structured responses. Always be polite and professional."
