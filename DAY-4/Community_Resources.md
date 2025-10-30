@@ -1,4 +1,4 @@
-# 🌐 Community Resources for AI Learners
+cd # 🌐 Community Resources for AI Learners
 
 ### 🧭 “You don’t grow alone in AI — you grow with your community.”
 
